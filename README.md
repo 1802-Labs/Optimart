@@ -124,3 +124,4 @@ Meet the creative minds who brought this project to life:
 | Kester Atakere      | Designer & Frontend Developer | [GitHub](https://github.com/codergon)        |
 | Lijadu Obafunmilayo | Backend Developer             | [GitHub](https://github.com/ScMofeoluwa)      |
 | Isaac Adewumi       | Backend Developer             | [GitHub](https://github.com/prettyirrelevant) |
+| Akintan Iteoluwakishi       | Lead Designer             | [Behance](https://www.behance.net/AkintanIteoluwa) |
